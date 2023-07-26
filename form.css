@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{
+    background-color: white;
+}
+.formulario{
+    background-color: #1f8a6f6b;
+    border: black 4px solid;
+    margin: 10% 2%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 6px;
+    
+}
+
+h1{
+    font-family: 'Belanosima';
+    font-size: small;
+}
+
+.header{
+    background-color: #1F8A70;
+    display: flex;
+    justify-content: flex-end;
+    height: 15px;
+
+
+}
+img{
+    padding: 2px;
+}
+.qu{
+    height: 100px;
+}
+
+input{
+   border-radius: 5px;
+}
+
+button{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    font-family: 'Belanosima';
+    background-color: #1f8a6f6b;
+}
